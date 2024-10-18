@@ -203,9 +203,3 @@ This project exemplifies my commitment to driving business value through data an
 
 <a id="contact"></a>
 
-## Contact
-For more information, please contact:
-
-**Name:** Matt Delaune
-
-**Email:** matt.delaune@gmail.com
